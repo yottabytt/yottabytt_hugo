@@ -1,6 +1,6 @@
 baseURL = "http://yottabytt.com/"
+title = "yottabytt"
 languageCode = "en-us"
-title = ""
 buildDrafts = true
 theme = "cocoa-eh"
 
@@ -10,3 +10,5 @@ faviconfile = "images/YB.png"
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 IST"
 latestpostcount = 5
+github = "yottabytt"
+stackexchange = "yottabytt"
