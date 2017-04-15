@@ -1,0 +1,12 @@
+baseURL = "http://yottabytt.com/"
+languageCode = "en-us"
+title = ""
+buildDrafts = true
+theme = "cocoa-eh"
+
+[params]
+logofile = "images/YB.png"
+faviconfile = "images/YB.png"
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 IST"
+latestpostcount = 5
