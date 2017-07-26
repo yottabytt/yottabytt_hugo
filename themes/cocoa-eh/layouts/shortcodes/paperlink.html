@@ -1,0 +1,5 @@
+{{ if .IsNamedParams }}
+<a href="{{ .Site.BaseURL }}papers/{{ .Get "src"}}"> {{ .Get "text" }} </a>
+{{ else }}
+<a href="{{ .Site.BaseURL }}papers/{{ .Get 0}}"> {{ .Get 1 }} </a>
+{{ end }}
