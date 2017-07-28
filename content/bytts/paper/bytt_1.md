@@ -61,8 +61,8 @@ There are three methods which are discussed in the paper. They are,
 
     {{% spaces "4" %}} In the earlier methods, the text per se was indexed into Lucene. In this method, instead of the complete text, only the Noun Phrases (NP) are indexed. It is a two step process,
 
-    * First, for every document, NPs are extracted and the classes associated with the document are assigned to the NPs. Now, for all the NPs present in all the documents across the corpus, there would be one to many classes associated to it.
-    * Second, an intersection of classes for every distinctive NPs is found out, and the intersection set is assigned to the NPs. Now, all of them, the NPs and the associated classes are indexed into Lucene.
+    * First, for every document, NPs are extracted and the topics associated with the document are assigned to the NPs. Now, for all the NPs present in all the documents across the corpus, there would be one to many topics associated to it.
+    * Second, an intersection of topics for every distinctive NPs is found out, and the intersection set is assigned to the NPs. Now, all of them, the NPs and the associated topics are indexed into Lucene.
 
         > * Consider, for example two documents, doc1 and doc2\
         > * doc1 has NPs X,Y and doc2 has NPs X,Y,Z\
@@ -72,7 +72,7 @@ There are three methods which are discussed in the paper. They are,
         {topic1, topic2} and {topic1, topic3} which is topic1. Similarly,
         Y = {topic1} and Z = {topic1, topic3}
 
-    Now, as the index is ready, for a given input document, NPs are extracted and similar NPs are searched for in the Lucene index and their classes are attributed to the input document.
+    Now, as the index is ready, for a given input document, NPs are extracted and similar NPs are searched for in the Lucene index and their topics are attributed to the input document.
 
 
 
