@@ -87,4 +87,4 @@ There are three methods which are discussed in the paper. They are,
 
 
 #### Limitations
-* Human Labeling of the documents with topics.
+* Human labeling of the documents with topics.
