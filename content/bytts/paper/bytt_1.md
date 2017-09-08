@@ -1,6 +1,6 @@
 +++
 title = "Paper Bytt #1 - Identifying Multiple Topics in Texts"
-date = "2017-07-07"
+date = "2017-07-15"
 tags = ["text classification", "text similarity"]
 +++
 
