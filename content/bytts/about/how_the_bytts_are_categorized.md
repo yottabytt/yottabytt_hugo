@@ -1,6 +1,6 @@
 +++
 title = "How the bytts are categorized ?"
-date = "2017-07-01"
+date = "2017-07-02"
 +++
 
 
