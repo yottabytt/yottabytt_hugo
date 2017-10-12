@@ -3,7 +3,7 @@ title = "Transition from fool_01 to yottabytt !"
 date = "2017-07-01"
 +++
 
-So, till this date (July 1, 2017), I was operating in the internet as _fool\_01_. _fool\_01_ was the handle in all of my web profiles. Few days back, I planned to make a move to a new name which I could use uniformly across all the websites related to Computer Science and Programming in the internet. Due to the domain name issues and few other reasons, from now on, I would be visible in the internet as _yottabytt_. I have changed the names in few of the sites and have created a new profile in the ones in which I was unable to change.
+So, till this date (July 1, 2017), I was operating on the Internet as _fool\_01_. _fool\_01_ was the handle in all of my web profiles. A few days back, I planned to make a move to a new name which I could use uniformly across all the websites related to Computer Science and  Programming on the Internet. Due to the domain name issues and few other reasons, from now on, I would be visible on the Internet as _yottabytt_. I have changed the names in few of the sites and have created a new profile on the ones in which I was unable to change.
 
 #### Now, what the hell is _yottabytt_ ?
 
