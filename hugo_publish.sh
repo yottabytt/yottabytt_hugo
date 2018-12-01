@@ -1,1 +1,1 @@
-hugo -d ~/web/yottabytt.github.io
+hugo -d ~/OSS/yottabytt.github.io
