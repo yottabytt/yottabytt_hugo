@@ -16,6 +16,6 @@ I think, now you can get the meaning of _yotta + bytt = yottabytt_
 
 Here are some of my profiles, which were active in the past but no further.
 
-* [Spoj] (http://www.spoj.com/users/fool_01/)
+* [Spoj] (https://www.spoj.com/users/fool_01/)
 * [Codechef] (https://www.codechef.com/users/fool_01)
 * [Github] (https://github.com/dwarakgovindp)

@@ -1,4 +1,4 @@
-baseURL = "http://yottabytt.com/"
+baseURL = "https://yottabytt.com/"
 title = "yottabytt"
 languageCode = "en-us"
 buildDrafts = true
