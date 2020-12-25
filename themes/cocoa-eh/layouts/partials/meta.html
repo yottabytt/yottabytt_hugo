@@ -4,16 +4,22 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer">
-{{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
 
-{{ if .Site.Params.twitter }}
-    <meta property="twitter:site" content="@{{.Site.Params.twitter}}">
-{{ end }}
-<meta property="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
-{{ if .Site.Params.social_banner }}
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:image" content="{{ if .Params.meta_img }}{{ .Site.BaseURL }}{{ .Params.meta_img }}{{ else }}{{ .Site.BaseURL }}{{.Site.Params.social_banner}}{{ end }}">
-{{ else }}
-    <meta property="twitter:card" content="summary">
-{{ end }}
-<meta property="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .IsPage }}{{ .Description }}{{ end }}">
+<!-- Primary Meta Tags -->
+<title>yottabytt</title>
+<meta name="title" content="yottabytt">
+<meta name="description" content="A bytt is not equal to a byte. ">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://metatags.io/">
+<meta property="og:title" content="yottabytt">
+<meta property="og:description" content="A bytt is not equal to a byte. ">
+<meta property="og:image" content="{{ .Site.Params.logofile | absURL }}">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://metatags.io/">
+<meta property="twitter:title" content="yottabytt">
+<meta property="twitter:description" content="A bytt is not equal to a byte. ">
+<meta property="twitter:image" content="{{ .Site.Params.logofile | absURL }}">

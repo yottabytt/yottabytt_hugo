@@ -41,16 +41,6 @@ A gain represented by a positive number could look neat. So, why not\\
 
 It doesn't affect any of the preconditions. Thus, we have reached close to the actual formula of entropy.
 
-### Credits
+### Credits 
 
-_Pattern Recognition and Machine Learning, Christopher M. Bishop_.
-
-
-
-
-
-
-
-
-
-
+_Pattern Recognition and Machine Learning, Christopher M. Bishop_
